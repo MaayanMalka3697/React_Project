@@ -1,0 +1,60 @@
+.login-container {
+    background-color: #f8d7da; /* Light pink background color */
+    border-radius: 8px;
+    padding: 5px;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
+    width:800px; /* Increased width */
+    height: 480px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -200px;
+}
+
+.login-container h2 {
+    margin-bottom: 20px;
+    color: #1d1e1a; /* Dark pink text color */
+    margin-top: 50px;
+}
+
+.login-container button {
+    background-color: #35d4ec; /* Pink button color */
+    color: white;
+    padding: 15px 30px; /* Increased padding */
+    border: none;
+    border-radius: 8px; /* Increased border radius */
+    cursor: pointer;
+    font-size: 30px; /* Increased font size */
+    margin-top: 50px;
+}
+
+.login-container button:hover {
+    background-color: #27e5dc; /* Hover color */
+}
+
+.login-form {
+    margin-top: 20px;
+}
+
+.login-form input[type="text"],
+.login-form input[type="password"] {
+    width: 100%;
+    padding: 12px; /* Increased padding */
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+.login-form input[type="submit"] {
+    background-color:bisque; /* Pink button color */
+    color: white;
+    padding: 15px 30px; /* Increased padding */
+    border: none;
+    border-radius: 8px; /* Increased border radius */
+    cursor: pointer;
+    font-size: 80px; /* Increased font size */
+}
+
+.login-form input[type="submit"]:hover {
+    background-color: #d6296c; /* Hover color */
+}
