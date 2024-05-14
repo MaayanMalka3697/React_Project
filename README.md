@@ -1,8 +1,10 @@
-# React + Vite
+### The BEST SITE to your business!
+#Are you an independent makeup artist ,or maybe even have a Law Firm?
+#you're in the right place!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+in our website you can let your client to make an appointment,
+right after the ADMINISTRATOR (you...) enter DETAILS and SERVICES!
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+so what are you waiting for?
+cantact me at- maayan.malka3697@gmail.com
+in order to get the SERVER, and this great site will be YOURS!
