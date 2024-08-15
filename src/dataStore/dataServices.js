@@ -1,6 +1,6 @@
 import { action, computed, makeObservable, observable, runInAction } from 'mobx';
 
-const baseUrl = "http://localhost:8787"
+const baseUrl = "https://react-project-server.onrender.com"
 class DataServices {
     list = [{
         name: "Enter A New Service",

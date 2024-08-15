@@ -1,6 +1,6 @@
 import { action, computed, makeObservable, observable, runInAction } from 'mobx';
 import { useState } from 'react';
-const baseUrl = "http://localhost:8787"
+const baseUrl = "https://react-project-server.onrender.com"
 
 class BussinesData {
    data = { id: "1",
